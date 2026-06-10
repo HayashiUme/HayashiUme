@@ -41,6 +41,4 @@ A freelance software developer based in Amoy. I take on independent development 
 
 <div align="center">
 
-Thanks for visiting my profile
-
 </div>
