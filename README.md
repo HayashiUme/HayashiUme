@@ -1,10 +1,10 @@
-# HayashiUme desu...
+# HayashiUme です...
 
-A freelance software developer based in Amoy. I take on independent development work and contribute to open-source projects, primarily within the Among Us modding ecosystem.
+I'm a freelance developer originally from Amoy. I primarily take on independent development projects and contribute to open-source projects, with a particular focus on the *Among Us* modding community. If you'd like to learn more, feel free to check out [My History](./History.md)
 
 <div align="center">
 
-### 🍵 Developer / Open Source Enthusiast / Game Modding Lover
+### Developer / Open Source Enthusiast / Game Modding Lover
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Open+Source+Developer;Among+Us+Modding;Backend+%26+Tool+Development;Unity+%2F+C%23+%2F+.NET;Always+Learning+New+Things" />
 
@@ -12,7 +12,7 @@ A freelance software developer based in Amoy. I take on independent development 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -30,7 +30,7 @@ A freelance software developer based in Amoy. I take on independent development 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
