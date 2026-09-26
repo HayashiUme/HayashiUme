@@ -2,6 +2,8 @@
 
 I'm a freelance developer originally from Amoy. I primarily take on independent development projects and contribute to open-source projects, with a particular focus on the *Among Us* modding community. If you'd like to learn more, feel free to check out [My History](./History.md)
 
+If you wanna donate me, click [here](https://afdian.com/a/hayashiume)
+
 <div align="center">
 
 ### Developer / Open Source Enthusiast / Game Modding Lover
